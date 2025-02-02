@@ -1,0 +1,19 @@
+{
+  "name": "super-heavy-lift",
+  "version": "1.0.0",
+  "description": "A web-based, iOS friendly weight lifting companion",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattLeslie/heavy-lift.git"
+  },
+  "author": "Matt Leslie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattLeslie/heavy-lift/issues"
+  },
+  "homepage": "https://github.com/mattLeslie/heavy-lift#readme"
+}
